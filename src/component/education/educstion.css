@@ -1,0 +1,38 @@
+.get input{
+    width: 10cm;
+    height: 50px;
+}
+.Box{
+    height: auto;
+
+}
+.box4{
+    height: auto;
+    border: 2px solid gray;
+   padding-left: 30px;
+   width: 24cm;
+
+}
+.intitute{
+    margin-top: 10px;
+    display: flex;
+   
+}
+
+.intitute p{
+    font-weight: 700;
+    margin-left: 11cm;
+    position: absolute;
+    right:5px ;
+}
+
+.data button{
+    padding: 4px 15px 4px 15px;
+    border-radius: 10px;
+    background-color: red;
+    margin-left: 20px;
+    color: white;
+}
+.dec{
+    margin-top:20px;
+}

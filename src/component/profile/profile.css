@@ -1,0 +1,130 @@
+.box1 {
+   display: flex;
+
+   flex-direction: row;
+   height: 10cm;
+   font-weight: 600;
+   border: 2px solid;
+}
+
+.profimg1 {
+   flex: 1;
+   margin-top: 70px;
+}
+
+.profimg {
+   flex: 1;
+   margin-top: 70px;
+
+
+
+}
+
+.profimg img {
+   margin-left: 100px;
+   border-radius: 50%;
+
+   border: 2px solid gray;
+   height: 110px;
+   width: 110px
+}
+
+.profimg1 img {
+   margin-left: 100px;
+   border-radius: 50%;
+
+   border: 2px solid gray;
+   height: 110px;
+   width: 110px;
+}
+
+profimg img {
+   margin-left: 300px;
+   border-radius: 50%;
+   padding-top: 0.1cm;
+   border: 2px solid gray;
+   height: 110px;
+   width: 110px;
+}
+
+.profimg1 input {
+   font-size: 0%;
+   border: 0px;
+   height: 120px;
+   width: 120px;
+   position: relative;
+   background-color: transparent;
+   left: 90px;
+
+   bottom: 140px;
+}
+
+.mid1 {
+   flex: 2;
+   padding-left: 20px;
+   margin-top: 40px;
+
+
+}
+
+.end {
+   flex: 2;
+   padding-left: 20px;
+
+   margin-top: 40px;
+}
+
+.email {
+   margin-top: 30px;
+
+}
+
+.btn1 {
+   margin-top: 30px;
+
+}
+
+.btn1 button {
+   padding: 12px 30px 12px 30px;
+   background-color: rgb(17, 165, 135);
+   color: white;
+   font-weight: 600;
+   border: 2px solid;
+   border-radius: 6px;
+}
+
+.inp2 input {
+
+   width: 500px;
+   height: 40px;
+   margin-top: 1em;
+}
+
+.inp1 input {
+   width: 500px;
+   height: 40px;
+   margin-top: 1em;
+
+}
+
+.inp3 textarea {
+   margin-top: 1em;
+}
+
+
+/* // second block */
+
+.details {
+   flex: 4;
+   margin-top: 70px;
+   margin-right: 40px;
+}
+
+.btn2 button {
+   padding: 12px 30px 12px 30px;
+   background-color: rgb(235, 247, 244);
+   color: black;
+   font-weight: 600;
+   border: 2px solid;
+   border-radius: 6px;
+}

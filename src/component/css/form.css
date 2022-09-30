@@ -1,0 +1,17 @@
+.block{
+    margin-top: 20px;
+    position: absolute;
+    left:20%;
+    height: auto;
+    
+}
+.btn3 Button{
+    height: 60px;
+    width: 24cm;
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    font-size: medium;
+  
+ 
+}
